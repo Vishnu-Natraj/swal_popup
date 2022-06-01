@@ -1,0 +1,7 @@
+p {
+    font-family: Lato;
+}
+
+.swal2-styled.swal2-cancel {
+    background: blue !important
+}
